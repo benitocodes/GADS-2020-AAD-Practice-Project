@@ -8,4 +8,6 @@ The project makes use of: Multi-Activity Project, View pager, Customizing Toolba
 ## App Screenshots
 
 
- <img src="https://user-images.githubusercontent.com/46993858/92525647-e56f9780-f22c-11ea-8a04-f6d3fa370063.png"   height="600" >
+ <img src="https://user-images.githubusercontent.com/46993858/92525647-e56f9780-f22c-11ea-8a04-f6d3fa370063.png"   height="600" >  <img src="https://user-images.githubusercontent.com/46993858/92527387-96773180-f22f-11ea-858e-17abf86c1758.png"   height="600" >
+
+ 
