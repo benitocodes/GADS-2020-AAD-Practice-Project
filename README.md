@@ -8,6 +8,7 @@ The project makes use of: Multi-Activity Project, View pager, Customizing Toolba
 ## App Screenshots
 
 
- <img src="https://user-images.githubusercontent.com/46993858/92525647-e56f9780-f22c-11ea-8a04-f6d3fa370063.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92527387-96773180-f22f-11ea-858e-17abf86c1758.png"   height="600" > <img src="(https://user-images.githubusercontent.com/46993858/92525658-eb657880-f22c-11ea-8a64-a02b2d8fc5cd.png"   height="600" >
+ <img src="https://user-images.githubusercontent.com/46993858/92525647-e56f9780-f22c-11ea-8a04-f6d3fa370063.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92527387-96773180-f22f-11ea-858e-17abf86c1758.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92525658-eb657880-f22c-11ea-8a64-a02b2d8fc5cd.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92525659-ebfe0f00-f22c-11ea-9de1-1f9fa3bdc00d.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92525661-ec96a580-f22c-11ea-8bea-ca3e5365b2c2.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92525664-edc7d280-f22c-11ea-806f-d49b536ee2ed.png"   height="600" > <img src="https://user-images.githubusercontent.com/46993858/92525668-eef8ff80-f22c-11ea-9317-b946608171ed.png"   height="600" >
+
 
  
