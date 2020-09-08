@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default colors   -->
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <!-- my own colors   -->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="orange">#F59212</color>
+    <color name="semiTransparent">#57FFFFFF</color>
+    <color name="gray">#b1b1b1</color>
+    <color name="black">#000000</color>
+
+</resources>

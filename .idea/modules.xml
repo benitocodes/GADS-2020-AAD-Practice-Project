@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Plurasight_Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/Plurasight_Projects.iml" group="Plurasight_Projects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Plurasight Projects/app" />
+    </modules>
+  </component>
+</project>

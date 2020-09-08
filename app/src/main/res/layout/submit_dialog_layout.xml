@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="submitDialogInterface"
+            type="com.benardmusau.gads_practise_project_2020.interfaces.SubmitDialogInterface" />
+
+        <variable
+            name="dialogFragmentDataBinding"
+            type="com.benardmusau.gads_practise_project_2020.databinding.DialogFragmentDataBinding" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="3dp"
+        android:padding="10dp"
+        app:cardCornerRadius="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/submit_animation_view"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="packed"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="false"
+                app:setLottieAnimation="@{dialogFragmentDataBinding.animationId}" />
+
+            <TextView
+                android:id="@+id/dialog_submitting_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="@{dialogFragmentDataBinding.dialogText}"
+                android:textColor="@android:color/background_dark"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="@+id/submit_animation_view"
+                app:layout_constraintStart_toStartOf="@+id/submit_animation_view"
+                app:layout_constraintTop_toBottomOf="@+id/submit_animation_view"
+                app:layout_constraintVertical_chainStyle="packed"
+                tools:text="" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</layout>
